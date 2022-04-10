@@ -1,6 +1,8 @@
 # Ali Asghar Heidari
-![nityan](github-header.svg)
-
+ 
+<div align="center">
+  <img src="7106d2530ba0879f0122cf5799365b75.gif">
+</div>
 <p align="center">
 	<a href="https://www.linkedin.com/in/aliasgharheidari">
 		<img alt="Ali Asghar Heidari's LinkdeIN" src="linkedin.png" />
