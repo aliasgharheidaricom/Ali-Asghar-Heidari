@@ -137,6 +137,6 @@ alias test_tf2_image="docker run --gpus all -it --rm tf2-image:latest python -c 
 alias build_tf2_dev="docker run --gpus all -it -d --name tf2-dev -p 8888:8888 -v ~/laboratory/:/laboratory/ -v /mnt/hd2/database/:/database/ -v /mnt/hd2/modelbase/:/modelbase/ tf2-image:latest"
 
 # Change ownership of file(s) from root to current user
-alias chown_file="sudo chown nityan:nityan"
+alias chown_file="sudo chown aliasgharheidaricom:aliasgharheidaricom"
 
 ###################################################################################################
